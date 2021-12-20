@@ -1,0 +1,2 @@
+rootProject.name = "MVCDesignPatternButtonClicks"
+include ':app'
